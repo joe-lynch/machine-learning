@@ -13,4 +13,4 @@ The project directory consists four juypter notebook files, which implement the 
 
 There is also a file *analysis.pdf* which is an analysis of the various methods on the SARCOS dataset, and on toy problems.
 
-Finally, the SARCOS dataset is included as *sarcos_inv.txt*.
+Finally, the SARCOS dataset is included as *sarcos_inv.txt*, and can be found [here](http://www.gaussianprocess.org/gpml/data/).
